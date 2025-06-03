@@ -1,0 +1,316 @@
+2025-06-02 17:05:06,927 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-02 17:05:39,693 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-02 17:06:10,674 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-02 17:06:22,480 - Low confidence (0.51) for input: i have fever -> Processed: fever -> Predicted: fever_treatment
+2025-06-02 17:06:32,254 - Input: i have flu -> Processed: flu -> Predicted: flu_treatment -> Confidence: 1.00
+2025-06-02 17:06:39,135 - Low confidence (0.51) for input: i have fever -> Processed: fever -> Predicted: fever_treatment
+2025-06-02 17:09:01,865 - Input: i have flu -> Processed: flu -> Predicted: flu_treatment -> Confidence: 1.00
+2025-06-02 17:09:10,394 - Input: i have headache -> Processed: headache -> Predicted: headache -> Confidence: 1.00
+2025-06-02 17:09:58,689 - Low confidence (0.51) for input: i have fever -> Processed: fever -> Predicted: fever_treatment
+2025-06-02 17:12:37,385 - Input: i have cough -> Processed: cough -> Predicted: cough_treatment -> Confidence: 1.00
+2025-06-03 11:39:07,191 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-03 11:39:25,319 - Input: i have fever -> Processed: fever -> Predicted: fever_treatment -> Confidence: 1.00
+2025-06-03 11:39:45,886 - Input: i have diabeties -> Processed: diabeties -> Predicted: cold_symptoms -> Confidence: 0.98
+2025-06-03 11:39:58,792 - Input: i have  cough -> Processed: cough -> Predicted: cough_treatment -> Confidence: 1.00
+2025-06-03 11:40:14,308 - Low confidence (0.52) for input: how to reduce weight -> Processed: reduce weight -> Predicted: fever_treatment
+2025-06-03 11:40:34,295 - Input: how to reduce fat -> Processed: reduce fat -> Predicted: fever_treatment -> Confidence: 0.87
+2025-06-03 11:41:13,670 - Input: what cause allergies -> Processed: cause allergy -> Predicted: allergy -> Confidence: 1.00
+2025-06-03 11:43:01,823 - Low confidence (0.56) for input: i have teeth pain -> Processed: teeth pain -> Predicted: chest_pain
+2025-06-03 11:43:16,031 - Input: i have tooth pain -> Processed: tooth pain -> Predicted: chest_pain -> Confidence: 1.00
+2025-06-03 11:43:37,370 - Input: i have chest pain -> Processed: chest pain -> Predicted: chest_pain -> Confidence: 1.00
+2025-06-03 11:43:44,345 - Input: i have tooth -> Processed: tooth -> Predicted: cold_symptoms -> Confidence: 0.97
+2025-06-03 11:43:50,961 - Input: i have tooth pain -> Processed: tooth pain -> Predicted: chest_pain -> Confidence: 1.00
+2025-06-03 11:44:29,134 - Input: How to keep my teeth healthy? -> Processed: keep teeth healthy -> Predicted: dental_health -> Confidence: 1.00
+2025-06-03 11:44:46,374 - Input: my teeth healthy? -> Processed: teeth healthy -> Predicted: dental_health -> Confidence: 1.00
+2025-06-03 11:44:50,173 - Input: my teeth healthy -> Processed: teeth healthy -> Predicted: dental_health -> Confidence: 1.00
+2025-06-03 11:44:55,380 - Input: teeth healthy -> Processed: teeth healthy -> Predicted: dental_health -> Confidence: 1.00
+2025-06-03 11:45:11,125 - Input: for tooth pain? -> Processed: tooth pain -> Predicted: chest_pain -> Confidence: 1.00
+2025-06-03 11:45:32,086 - Input: What should I do for tooth pain? -> Processed: tooth pain -> Predicted: chest_pain -> Confidence: 1.00
+2025-06-03 11:45:49,471 - Input: How often should I brush my teeth? -> Processed: often brush teeth -> Predicted: dental_health -> Confidence: 1.00
+2025-06-03 11:46:36,279 - Low confidence (0.32) for input: common eye problems -> Processed: common eye problem -> Predicted: allergy
+2025-06-03 11:46:51,527 - Low confidence (0.32) for input: What are common eye problems? -> Processed: common eye problem -> Predicted: allergy
+2025-06-03 12:03:39,085 - Low confidence (0.39) for input: C:/Users/aswan/anaconda3/python.exe "c:/Users/aswan/OneDrive/Documents/attendance/demo train" -> Processed: cusersaswananaconda3pythonexe cusersaswanonedrivedocumentsattendancedemo train -> Predicted: chest_pain
+2025-06-03 12:04:33,013 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-03 12:09:26,497 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-03 12:09:50,917 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:10:01,784 - Input: i have fever -> Processed: fever -> Predicted: fever_treatment -> Confidence: 1.00
+2025-06-03 12:10:10,427 - Input: i have covid -> Processed: covid -> Predicted: covid_symptoms -> Confidence: 1.00
+2025-06-03 12:10:21,630 - Low confidence (0.70) for input: i have teeth pain -> Processed: teeth pain -> Predicted: dental_health
+2025-06-03 12:10:29,731 - Input: i have tooth pain -> Processed: tooth pain -> Predicted: back_pain -> Confidence: 1.00
+2025-06-03 12:10:42,602 - Input: i have toothpain -> Processed: toothpain -> Predicted: diabetes -> Confidence: 0.98
+2025-06-03 12:10:55,291 - Input: i have diabetes -> Processed: diabetes -> Predicted: diabetes -> Confidence: 1.00
+2025-06-03 12:11:22,992 - Input: i have eye problem -> Processed: eye problem -> Predicted: eye_health -> Confidence: 0.89
+2025-06-03 12:12:08,755 - Input: i often should i brush my teeth -> Processed: often brush teeth -> Predicted: dental_health -> Confidence: 1.00
+2025-06-03 12:25:08,238 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:25:08,313 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-03 12:25:08,313 - [33mPress CTRL+C to quit[0m
+2025-06-03 12:25:08,336 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:25:15,704 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:25:15,735 -  * Debugger is active!
+2025-06-03 12:25:15,739 -  * Debugger PIN: 349-677-118
+2025-06-03 12:26:35,856 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:26:35,883 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-03 12:26:35,883 - [33mPress CTRL+C to quit[0m
+2025-06-03 12:26:35,896 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:26:43,534 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:26:43,561 -  * Debugger is active!
+2025-06-03 12:26:43,574 -  * Debugger PIN: 349-677-118
+2025-06-03 12:27:35,478 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:27:35,506 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-03 12:27:35,506 - [33mPress CTRL+C to quit[0m
+2025-06-03 12:27:35,515 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:27:42,512 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:27:42,532 -  * Debugger is active!
+2025-06-03 12:27:42,535 -  * Debugger PIN: 349-677-118
+2025-06-03 12:30:16,026 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:30:16,044 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-03 12:30:16,044 - [33mPress CTRL+C to quit[0m
+2025-06-03 12:30:16,051 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:30:22,835 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:30:22,858 -  * Debugger is active!
+2025-06-03 12:30:22,858 -  * Debugger PIN: 349-677-118
+2025-06-03 12:32:14,224 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:32:14,247 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-03 12:32:14,247 - [33mPress CTRL+C to quit[0m
+2025-06-03 12:32:14,262 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:32:21,221 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:32:21,241 -  * Debugger is active!
+2025-06-03 12:32:21,241 -  * Debugger PIN: 349-677-118
+2025-06-03 12:32:48,317 - 127.0.0.1 - - [03/Jun/2025 12:32:48] "GET / HTTP/1.1" 200 -
+2025-06-03 12:32:49,665 - 127.0.0.1 - - [03/Jun/2025 12:32:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-03 12:32:59,912 - Input: i have fever -> Processed: fever -> Predicted: fever_treatment -> Confidence: 1.00
+2025-06-03 12:32:59,912 - 127.0.0.1 - - [03/Jun/2025 12:32:59] "POST /chat HTTP/1.1" 200 -
+2025-06-03 12:33:15,028 - Input: i have diabeties -> Processed: diabeties -> Predicted: diabetes -> Confidence: 0.98
+2025-06-03 12:33:15,028 - 127.0.0.1 - - [03/Jun/2025 12:33:15] "POST /chat HTTP/1.1" 200 -
+2025-06-03 12:33:28,007 - Input: i have chest pain -> Processed: chest pain -> Predicted: chest_pain -> Confidence: 1.00
+2025-06-03 12:33:28,007 - 127.0.0.1 - - [03/Jun/2025 12:33:28] "POST /chat HTTP/1.1" 200 -
+2025-06-03 12:37:25,743 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:37:25,765 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-03 12:37:25,765 - [33mPress CTRL+C to quit[0m
+2025-06-03 12:37:25,782 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:37:33,070 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:37:33,087 -  * Debugger is active!
+2025-06-03 12:37:33,093 -  * Debugger PIN: 349-677-118
+2025-06-03 12:38:31,544 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\app.py', reloading
+2025-06-03 12:38:31,566 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\app.py', reloading
+2025-06-03 12:38:33,372 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:38:42,709 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:38:42,732 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-03 12:38:42,732 - [33mPress CTRL+C to quit[0m
+2025-06-03 12:38:42,748 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:38:50,449 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:38:50,457 -  * Debugger is active!
+2025-06-03 12:38:50,470 -  * Debugger PIN: 349-677-118
+2025-06-03 12:38:50,500 - 127.0.0.1 - - [03/Jun/2025 12:38:50] "GET / HTTP/1.1" 200 -
+2025-06-03 12:38:50,981 - 127.0.0.1 - - [03/Jun/2025 12:38:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-03 12:48:42,375 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:48:42,393 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-03 12:48:42,393 - [33mPress CTRL+C to quit[0m
+2025-06-03 12:48:42,400 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:48:49,064 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:48:49,091 -  * Debugger is active!
+2025-06-03 12:48:49,091 -  * Debugger PIN: 349-677-118
+2025-06-03 12:48:52,836 - 127.0.0.1 - - [03/Jun/2025 12:48:52] "GET / HTTP/1.1" 200 -
+2025-06-03 12:48:52,973 - 127.0.0.1 - - [03/Jun/2025 12:48:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-03 12:52:21,069 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:52:21,099 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-03 12:52:21,099 - [33mPress CTRL+C to quit[0m
+2025-06-03 12:52:21,111 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:52:27,995 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:52:28,019 -  * Debugger is active!
+2025-06-03 12:52:28,026 -  * Debugger PIN: 349-677-118
+2025-06-03 12:52:58,629 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:52:58,666 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-03 12:52:58,666 - [33mPress CTRL+C to quit[0m
+2025-06-03 12:52:58,678 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:53:05,605 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:53:05,628 -  * Debugger is active!
+2025-06-03 12:53:05,630 -  * Debugger PIN: 349-677-118
+2025-06-03 12:53:17,884 - 127.0.0.1 - - [03/Jun/2025 12:53:17] "GET / HTTP/1.1" 200 -
+2025-06-03 12:53:18,221 - 127.0.0.1 - - [03/Jun/2025 12:53:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-03 12:53:32,504 - Input: i have fever -> Processed: fever -> Predicted: fever_treatment -> Confidence: 1.00
+2025-06-03 12:53:32,504 - 127.0.0.1 - - [03/Jun/2025 12:53:32] "POST /chat HTTP/1.1" 200 -
+2025-06-03 12:53:56,510 - Input: i have diebeties -> Processed: diebeties -> Predicted: diabetes -> Confidence: 0.98
+2025-06-03 12:53:56,510 - 127.0.0.1 - - [03/Jun/2025 12:53:56] "POST /chat HTTP/1.1" 200 -
+2025-06-03 12:54:13,393 - Input: i have chest pain -> Processed: chest pain -> Predicted: chest_pain -> Confidence: 1.00
+2025-06-03 12:54:13,393 - 127.0.0.1 - - [03/Jun/2025 12:54:13] "POST /chat HTTP/1.1" 200 -
+2025-06-03 12:56:21,745 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\demo train', reloading
+2025-06-03 12:56:21,745 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\training_train.py', reloading
+2025-06-03 12:56:21,900 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\numpy\\typing\\__init__.py', reloading
+2025-06-03 12:56:22,423 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\__init__.py', reloading
+2025-06-03 12:56:22,426 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\stem\\__init__.py', reloading
+2025-06-03 12:56:22,426 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\__init__.py', reloading
+2025-06-03 12:56:22,445 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\numpy\\_typing\\__init__.py', reloading
+2025-06-03 12:56:22,445 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\numpy\\_utils\\__init__.py', reloading
+2025-06-03 12:56:22,445 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py', reloading
+2025-06-03 12:56:22,445 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\numpy\\_typing\\_nbit.py', reloading
+2025-06-03 12:56:22,448 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\numpy\\_typing\\_array_like.py', reloading
+2025-06-03 12:56:22,451 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\__init__.py', reloading
+2025-06-03 12:56:22,451 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\aligned.py', reloading
+2025-06-03 12:56:22,451 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\api.py', reloading
+2025-06-03 12:56:22,451 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\bcp47.py', reloading
+2025-06-03 12:56:22,451 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\bnc.py', reloading
+2025-06-03 12:56:22,451 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\bracket_parse.py', reloading
+2025-06-03 12:56:22,451 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\categorized_sents.py', reloading
+2025-06-03 12:56:22,451 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\chasen.py', reloading
+2025-06-03 12:56:22,451 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\childes.py', reloading
+2025-06-03 12:56:22,451 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\chunked.py', reloading
+2025-06-03 12:56:22,457 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\cmudict.py', reloading
+2025-06-03 12:56:22,457 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\comparative_sents.py', reloading
+2025-06-03 12:56:22,457 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\conll.py', reloading
+2025-06-03 12:56:22,457 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\crubadan.py', reloading
+2025-06-03 12:56:22,457 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\dependency.py', reloading
+2025-06-03 12:56:22,457 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\framenet.py', reloading
+2025-06-03 12:56:22,460 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\ieer.py', reloading
+2025-06-03 12:56:22,461 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\indian.py', reloading
+2025-06-03 12:56:22,462 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\ipipan.py', reloading
+2025-06-03 12:56:22,462 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\knbc.py', reloading
+2025-06-03 12:56:22,462 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\lin.py', reloading
+2025-06-03 12:56:22,462 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\mte.py', reloading
+2025-06-03 12:56:22,462 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\nkjp.py', reloading
+2025-06-03 12:56:22,464 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\nombank.py', reloading
+2025-06-03 12:56:22,464 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\nps_chat.py', reloading
+2025-06-03 12:56:22,464 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\opinion_lexicon.py', reloading
+2025-06-03 12:56:22,466 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\panlex_lite.py', reloading
+2025-06-03 12:56:22,466 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\panlex_swadesh.py', reloading
+2025-06-03 12:56:22,466 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\pl196x.py', reloading
+2025-06-03 12:56:22,466 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\plaintext.py', reloading
+2025-06-03 12:56:22,468 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\ppattach.py', reloading
+2025-06-03 12:56:22,468 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\propbank.py', reloading
+2025-06-03 12:56:22,468 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\pros_cons.py', reloading
+2025-06-03 12:56:22,468 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\reviews.py', reloading
+2025-06-03 12:56:22,470 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\rte.py', reloading
+2025-06-03 12:56:22,470 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\semcor.py', reloading
+2025-06-03 12:56:22,470 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\senseval.py', reloading
+2025-06-03 12:56:22,472 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\sentiwordnet.py', reloading
+2025-06-03 12:56:22,472 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\sinica_treebank.py', reloading
+2025-06-03 12:56:22,472 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\string_category.py', reloading
+2025-06-03 12:56:22,472 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\switchboard.py', reloading
+2025-06-03 12:56:22,472 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\tagged.py', reloading
+2025-06-03 12:56:22,475 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\timit.py', reloading
+2025-06-03 12:56:22,475 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\toolbox.py', reloading
+2025-06-03 12:56:22,476 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\twitter.py', reloading
+2025-06-03 12:56:22,476 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\udhr.py', reloading
+2025-06-03 12:56:22,476 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\util.py', reloading
+2025-06-03 12:56:22,476 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\verbnet.py', reloading
+2025-06-03 12:56:22,478 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\wordlist.py', reloading
+2025-06-03 12:56:22,478 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\wordnet.py', reloading
+2025-06-03 12:56:22,479 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\xmldocs.py', reloading
+2025-06-03 12:56:22,479 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\ycoe.py', reloading
+2025-06-03 12:56:22,479 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\util.py', reloading
+2025-06-03 12:56:22,481 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\tokenize\\__init__.py', reloading
+2025-06-03 12:56:22,481 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\data.py', reloading
+2025-06-03 12:56:22,481 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\tokenize\\api.py', reloading
+2025-06-03 12:56:22,481 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\tokenize\\simple.py', reloading
+2025-06-03 12:56:22,483 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\util.py', reloading
+2025-06-03 12:56:22,483 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\tag\\__init__.py', reloading
+2025-06-03 12:56:22,483 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\tree\\__init__.py', reloading
+2025-06-03 12:56:22,483 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\chunk\\__init__.py', reloading
+2025-06-03 12:56:22,483 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\probability.py', reloading
+2025-06-03 12:56:22,485 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\tokenize\\destructive.py', reloading
+2025-06-03 12:56:22,485 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\tokenize\\punkt.py', reloading
+2025-06-03 12:56:22,485 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\parse\\__init__.py', reloading
+2025-06-03 12:56:22,485 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\translate\\__init__.py', reloading
+2025-06-03 12:56:22,485 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\stem\\wordnet.py', reloading
+2025-06-03 12:56:22,485 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\collocations.py', reloading
+2025-06-03 12:56:22,487 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\featstruct.py', reloading
+2025-06-03 12:56:22,487 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\grammar.py', reloading
+2025-06-03 12:56:22,487 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\text.py', reloading
+2025-06-03 12:56:22,487 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\jsontags.py', reloading
+2025-06-03 12:56:22,487 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\classify\\__init__.py', reloading
+2025-06-03 12:56:22,487 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\inference\\__init__.py', reloading
+2025-06-03 12:56:22,487 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\metrics\\__init__.py', reloading
+2025-06-03 12:56:22,487 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\sem\\__init__.py', reloading
+2025-06-03 12:56:22,487 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\downloader.py', reloading
+2025-06-03 12:56:22,487 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\nltk\\collections.py', reloading
+2025-06-03 12:56:22,491 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\logging\\__init__.py', reloading
+2025-06-03 12:56:22,506 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\numpy\\_typing\\_scalars.py', reloading
+2025-06-03 12:56:22,506 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\numpy\\_typing\\_shape.py', reloading
+2025-06-03 12:56:22,507 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\pickle.py', reloading
+2025-06-03 12:56:22,507 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\random.py', reloading
+2025-06-03 12:56:22,509 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\string.py', reloading
+2025-06-03 12:56:24,241 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:56:31,782 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:56:31,800 -  * Debugger is active!
+2025-06-03 12:56:31,808 -  * Debugger PIN: 349-677-118
+2025-06-03 12:57:25,673 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\training_train.py', reloading
+2025-06-03 12:57:25,674 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\training_train.py', reloading
+2025-06-03 12:57:25,702 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\training_train.py', reloading
+2025-06-03 12:57:25,702 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\training_train.py', reloading
+2025-06-03 12:57:27,140 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:57:34,967 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:57:34,984 -  * Debugger is active!
+2025-06-03 12:57:34,984 -  * Debugger PIN: 349-677-118
+2025-06-03 12:58:33,704 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\load_train.py', reloading
+2025-06-03 12:58:33,731 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\load_train.py', reloading
+2025-06-03 12:58:33,733 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\load_train.py', reloading
+2025-06-03 12:58:34,045 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\load_train.py', reloading
+2025-06-03 12:58:34,050 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\load_train.py', reloading
+2025-06-03 12:58:34,077 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\load_train.py', reloading
+2025-06-03 12:58:35,357 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:58:42,921 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:58:42,937 -  * Debugger is active!
+2025-06-03 12:58:42,939 -  * Debugger PIN: 349-677-118
+2025-06-03 12:58:43,308 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\app.py', reloading
+2025-06-03 12:58:43,309 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\app.py', reloading
+2025-06-03 12:58:43,337 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\app.py', reloading
+2025-06-03 12:58:43,679 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\app.py', reloading
+2025-06-03 12:58:43,709 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\app.py', reloading
+2025-06-03 12:58:44,991 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:58:52,597 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:58:52,619 -  * Debugger is active!
+2025-06-03 12:58:52,624 -  * Debugger PIN: 349-677-118
+2025-06-03 12:59:02,746 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\training_train.py', reloading
+2025-06-03 12:59:04,791 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:59:12,296 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:59:12,309 -  * Debugger is active!
+2025-06-03 12:59:12,323 -  * Debugger PIN: 349-677-118
+2025-06-03 12:59:24,076 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\load_train.py', reloading
+2025-06-03 12:59:25,459 -  * Restarting with watchdog (windowsapi)
+2025-06-03 12:59:33,056 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 12:59:33,080 -  * Debugger is active!
+2025-06-03 12:59:33,086 -  * Debugger PIN: 349-677-118
+2025-06-03 12:59:36,744 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\app.py', reloading
+2025-06-03 12:59:36,744 -  * Detected change in 'c:\\Users\\aswan\\OneDrive\\Documents\\attendance\\chatbot_app.py', reloading
+2025-06-03 12:59:36,771 -  * Detected change in 'C:\\Users\\aswan\\anaconda3\\Lib\\site-packages\\_pytest\\cacheprovider.py', reloading
+2025-06-03 12:59:38,232 -  * Restarting with watchdog (windowsapi)
+2025-06-03 13:00:00,901 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 13:00:00,929 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-03 13:00:00,929 - [33mPress CTRL+C to quit[0m
+2025-06-03 13:00:00,942 -  * Restarting with watchdog (windowsapi)
+2025-06-03 13:00:08,169 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 13:00:08,204 -  * Debugger is active!
+2025-06-03 13:00:08,211 -  * Debugger PIN: 349-677-118
+2025-06-03 13:00:11,429 - 127.0.0.1 - - [03/Jun/2025 13:00:11] "GET / HTTP/1.1" 200 -
+2025-06-03 13:00:11,632 - 127.0.0.1 - - [03/Jun/2025 13:00:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-03 13:00:25,080 - Input: i have tooth pain -> Processed: tooth pain -> Predicted: back_pain -> Confidence: 1.00
+2025-06-03 13:00:25,081 - 127.0.0.1 - - [03/Jun/2025 13:00:25] "POST /chat HTTP/1.1" 200 -
+2025-06-03 13:00:35,407 - Input: i have covid -> Processed: covid -> Predicted: covid_symptoms -> Confidence: 1.00
+2025-06-03 13:00:35,407 - 127.0.0.1 - - [03/Jun/2025 13:00:35] "POST /chat HTTP/1.1" 200 -
+2025-06-03 13:01:03,373 - Input: i have chest pain -> Processed: chest pain -> Predicted: chest_pain -> Confidence: 1.00
+2025-06-03 13:01:03,373 - 127.0.0.1 - - [03/Jun/2025 13:01:03] "POST /chat HTTP/1.1" 200 -
+2025-06-03 13:01:29,035 - Input: i have weight to reduce -> Processed: weight reduce -> Predicted: weight_loss -> Confidence: 1.00
+2025-06-03 13:01:29,036 - 127.0.0.1 - - [03/Jun/2025 13:01:29] "POST /chat HTTP/1.1" 200 -
+2025-06-03 13:07:37,539 - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-06-03 13:07:48,498 - Input: i have fever -> Processed: fever -> Predicted: fever_treatment -> Confidence: 1.00
+2025-06-03 13:07:56,084 - Input: i have tooth pain -> Processed: tooth pain -> Predicted: back_pain -> Confidence: 1.00
+2025-06-03 13:08:06,621 - Input: i have chest pain -> Processed: chest pain -> Predicted: chest_pain -> Confidence: 1.00
+2025-06-03 13:08:17,299 - Input: i have covid -> Processed: covid -> Predicted: covid_symptoms -> Confidence: 1.00
+2025-06-03 13:14:47,851 - Input: i have tooth -> Processed: tooth -> Predicted: diabetes -> Confidence: 0.99
+2025-06-03 13:14:58,078 - Input: toothe -> Processed: toothe -> Predicted: diabetes -> Confidence: 0.98
+2025-06-03 13:15:21,300 - Input: i brush my teeth -> Processed: brush teeth -> Predicted: dental_health -> Confidence: 1.00
+2025-06-03 13:15:26,936 - Input: i brush my teeth pain -> Processed: brush teeth pain -> Predicted: dental_health -> Confidence: 1.00
+2025-06-03 13:15:34,808 - Low confidence (0.70) for input: my teeth pain -> Processed: teeth pain -> Predicted: dental_health
+2025-06-03 13:15:45,589 - Low confidence (0.70) for input: teeth pain -> Processed: teeth pain -> Predicted: dental_health
+2025-06-03 13:15:50,025 - Input: teethpain -> Processed: teethpain -> Predicted: diabetes -> Confidence: 0.98
