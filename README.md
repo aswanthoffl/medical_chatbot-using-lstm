@@ -117,6 +117,3 @@ Bot: `"Common symptoms of flu include fever, cough, sore throat, and body aches.
 
 Maintained by Aswanth A.
 
----
-
-Let me know if you’d like this in Markdown format or if you want a sample chatbot.html template included too.
